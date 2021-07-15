@@ -1,0 +1,45 @@
+.card{
+    float:left;
+    margin-right: 1%;
+    margin-top: 20px;
+    width:24%;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.card-text{
+    font-size: 0.9rem;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.card-desc{
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.card-container{
+    margin-top:65px;
+}
+h5{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.gender{
+    position: relative;
+    margin-left: 20px;
+    width:150px;
+}
+
+div.scroll {
+    position: relative;
+    margin-left: 20px;
+    padding:4px;
+    width: 240px;
+    height: 210px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify;
+}
+
+.form-select{
+    height: 35px;
+    width: 215px;
+    float: right;
+    margin-top: 20px;
+}
